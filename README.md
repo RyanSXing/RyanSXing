@@ -1,21 +1,26 @@
 # Ryan Xing
 
+Computer science at Vanderbilt. I build full-stack products, AI systems, developer tools, and mobile software.
+
+Currently researching how coding agents explain decisions to developers. Open to Summer 2027 software engineering internships.
+
+[Portfolio](https://ryansxing.com) · [LinkedIn](https://www.linkedin.com/in/ryan-xing) · [Email](mailto:ryanxing06@gmail.com) · [Résumé](https://ryansxing.com/resume.pdf)
+
 ## Selected work
 
-| Project | What it demonstrates | Evidence |
-| --- | --- | --- |
-| [Optical Link Planner](https://github.com/RyanSXing/optical-link-planner) | Physics-based optical network modelling, analytical optimization, and reproducible data engineering | Models ASE and nonlinear noise, evaluates 1,008 matched configurations, and reproduces results with `make metrics` |
-| [Agentic Workflow Platform](https://github.com/RyanSXing/agentic-workflow-platform) | Governed multi-agent orchestration with typed hand-offs, privacy controls, audit trails, and human escalation | Deterministic 150-case, three-arm evaluation with regression gates; synthetic results are clearly labelled |
-| [Spec Copilot](https://github.com/RyanSXing/telecom-spec-agent) | Citation-grounded retrieval over 3GPP specifications | Clause-aware parsing, BM25/vector fusion, citation validation, and a measured retrieval baseline |
+**[WildfireOps](https://github.com/RyanSXing/wildfire-operation-planner)** — Replayable wildfire decision-support simulation for incident ranking, closure-aware routing, and auditable crew allocation.<br>
+`Python` `FastAPI` `React` `PostGIS` `OR-Tools`
 
-## More projects
+**[Code Trace Studio](https://github.com/RyanSXing/CodeTrace-Studio)** — Browser IDE that makes parsing, AST construction, and program execution visible step by step.<br>
+`Python` `Flask` `React` `PLY`
 
-- [Peptide Tracker](https://github.com/RyanSXing/peptide-tracker) — an offline-first SwiftUI health-tracking app with Firestore, dose validation, notifications, and pharmacokinetic curves.
-- [WildfireOps](https://github.com/RyanSXing/wildfire-operation-planner) — a wildfire operations simulation with an isolated replay environment for portfolio demonstrations.
-- [Code Trace Studio](https://github.com/RyanSXing/CodeTrace-Studio) — a browser IDE that visualizes AST construction and program evaluation step by step.
+**[Peptide Tracker](https://github.com/RyanSXing/peptide-tracker)** — Offline-first SwiftUI app for protocols, inventory, reminders, and pharmacokinetic concentration modeling.<br>
+`Swift` `SwiftUI` `Firebase`
+
+**[Agentic Workflow Platform](https://github.com/RyanSXing/agentic-workflow-platform)** — Governed multi-agent evaluation with typed handoffs, privacy controls, audit trails, and regression gates.<br>
+`Python` `LangGraph` `FastAPI` `PostgreSQL` `React`
 
 ## Toolkit
 
-**Languages:** Python, TypeScript, Swift, SQL  
-**AI & data:** LangGraph, retrieval systems, evaluation harnesses, PostgreSQL, PostGIS, OpenSearch  
-**Application engineering:** FastAPI, React, Next.js, SwiftUI, Docker, CI
+**Languages:** Python, TypeScript, JavaScript, Swift, Java, SQL<br>
+**Frameworks and systems:** React, Next.js, FastAPI, React Native, PyTorch, PostgreSQL, Docker
